@@ -1,0 +1,155 @@
+{
+  "documents": [
+    {
+      "title": "Multi-scale relational graph convolutional network for multiple instance learning in histopathology images",
+      "authors": "Bazargani, Fazli, Gleave, Goldenberg, Bashashati, Salcudean",
+      "year": 2024,
+      "doi": "10.1016/j.media.2024.103197",
+      "keywords": [
+        "Graph Neural Networks",
+        "Histopathology",
+        "MIL",
+        "WSI"
+      ],
+      "tags": [
+        "GNN"
+      ]
+    },
+    {
+      "title": "Graph neural networks in histopathology: Emerging trends and future directions",
+      "authors": "Brussee, Buzzanca, Schrader, Kers",
+      "year": 2025,
+      "doi": "10.1016/j.media.2024.103444",
+      "keywords": [
+        "GNN",
+        "WSI",
+        "Survey",
+        "Histopathology"
+      ],
+      "tags": [
+        "GNN",
+        "WSI"
+      ]
+    },
+    {
+      "title": "Dynamic graph representation with knowledge-aware attention for histopathology whole slide image analysis",
+      "authors": "Li, Chen, Chu, Sun, Guan, Han, He",
+      "year": 2024,
+      "doi": "10.1109/CVPR52733.2024.01076",
+      "keywords": [
+        "GNN",
+        "Attention",
+        "WSI",
+        "Histopathology"
+      ],
+      "tags": [
+        "GNN"
+      ]
+    },
+    {
+      "title": "Graph Mamba: Towards learning on graphs with state space models",
+      "authors": "Wang, Tsepa, Ma, Wang",
+      "year": 2024,
+      "doi": "10.1145/3637528.3672044",
+      "keywords": [
+        "Graph Mamba",
+        "SSM",
+        "GNN",
+        "Graph Learning"
+      ],
+      "tags": [
+        "GNN"
+      ]
+    },
+    {
+      "title": "Graph-Mamba: Towards long-range graph sequence modeling with selective state spaces",
+      "authors": "Wang, Tsepa, Ma, Wang",
+      "year": 2024,
+      "doi": "10.48550/arXiv.2402.00789",
+      "keywords": [
+        "Graph-Mamba",
+        "SSM",
+        "GNN",
+        "Long-range dependency"
+      ],
+      "tags": [
+        "GNN",
+        "WSI"
+      ]
+    },
+    {
+      "title": "CaMIL: Causal multiple instance learning for whole slide image classification",
+      "authors": "Chen, Sun, Zhao",
+      "year": 2024,
+      "doi": "10.1609/aaai.v38i2.27873",
+      "keywords": [
+        "Causal Inference",
+        "MIL",
+        "WSI",
+        "Deep Learning"
+      ],
+      "tags": [
+        "Causal"
+      ]
+    },
+    {
+      "title": "Deep learning applications in breast cancer histopathological imaging: Diagnosis, treatment, and prognosis",
+      "authors": "Jiang, Bao, He, Chen, Jin, Ye",
+      "year": 2024,
+      "doi": "10.1186/s13058-024-01895-6",
+      "keywords": [
+        "Breast Cancer",
+        "WSI",
+        "DL",
+        "Prognosis"
+      ],
+      "tags": [
+        "Prognosis"
+      ]
+    },
+    {
+      "title": "A pathology foundation model for cancer diagnosis and prognosis prediction",
+      "authors": "Wang et al.",
+      "year": 2024,
+      "doi": "10.1038/s41586-024-07894-z",
+      "keywords": [
+        "Cancer Prognosis",
+        "Foundation Model",
+        "Diagnosis"
+      ],
+      "tags": [
+        "Prognosis"
+      ]
+    },
+    {
+      "title": "PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains",
+      "authors": "Hua, Yan, Shen, Ma, Zhang",
+      "year": 2024,
+      "doi": "10.1016/j.media.2024.103289",
+      "keywords": [
+        "WSI",
+        "H&E",
+        "IHC",
+        "Foundation Models"
+      ],
+      "tags": [
+        "WSI"
+      ]
+    },
+    {
+      "title": "Exploring multiple instance learning (MIL): A brief survey",
+      "authors": "Waqas, Ahmed, Tahir, Wu, Qureshi",
+      "year": 2024,
+      "doi": "10.1016/j.eswa.2024.123893",
+      "keywords": [
+        "MIL",
+        "Survey",
+        "WSI",
+        "Deep Learning"
+      ],
+      "tags": [
+        "WSI"
+      ]
+    }
+  ]
+}
