@@ -1,0 +1,93 @@
+{
+  "Bazargani2024MSRGCN": {
+    "title": "Multi-scale relational graph convolutional network for multiple instance learning in histopathology images",
+    "keywords": [
+      "gnn",
+      "mil",
+      "histopathology"
+    ],
+    "series": "Medical Image Analysis"
+  },
+  "Brussee2025GNNTrends": {
+    "title": "Graph neural networks in histopathology: Emerging trends and future directions",
+    "keywords": [
+      "gnn",
+      "survey",
+      "trends"
+    ],
+    "series": "Medical Image Analysis"
+  },
+  "Li2024WiKG": {
+    "title": "Dynamic graph representation with knowledge-aware attention for histopathology whole slide image analysis",
+    "keywords": [
+      "gnn",
+      "attention",
+      "wsi"
+    ],
+    "series": "CVPR"
+  },
+  "Behrouz2024GraphMamba": {
+    "title": "Graph Mamba: Towards learning on graphs with state space models",
+    "keywords": [
+      "gnn",
+      "mamba",
+      "ssm"
+    ],
+    "series": "KDD"
+  },
+  "Chen2024CaMIL": {
+    "title": "CaMIL: Causal multiple instance learning for whole slide image classification",
+    "keywords": [
+      "causal",
+      "mil",
+      "wsi"
+    ],
+    "series": "AAAI"
+  },
+  "Wang2024GraphMambaSSM": {
+    "title": "Graph-Mamba: Towards long-range graph sequence modeling with selective state spaces",
+    "keywords": [
+      "gnn",
+      "mamba",
+      "ssm",
+      "long_range",
+      "causal"
+    ],
+    "series": "arXiv"
+  },
+  "Jiang2024DLBreast": {
+    "title": "Deep learning applications in breast cancer histopathological imaging: Diagnosis, treatment, and prognosis",
+    "keywords": [
+      "breast_cancer",
+      "wsi",
+      "deep_learning"
+    ],
+    "series": "Breast Cancer Research"
+  },
+  "Wang2024CHIEF": {
+    "title": "A pathology foundation model for cancer diagnosis and prognosis prediction",
+    "keywords": [
+      "foundation_model",
+      "cancer_prognosis"
+    ],
+    "series": "Nature"
+  },
+  "Hua2024PathoDuet": {
+    "title": "PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains",
+    "keywords": [
+      "foundation_model",
+      "wsi",
+      "contrastive_learning"
+    ],
+    "series": "Medical Image Analysis"
+  },
+  "Waqas2024MILSurvey": {
+    "title": "Exploring multiple instance learning (MIL): A brief survey",
+    "keywords": [
+      "mil",
+      "survey",
+      "wsi"
+    ],
+    "series": "Expert Systems with Applications"
+  }
+}

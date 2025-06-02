@@ -1,0 +1,83 @@
+{
+  "Bazargani2024MSRGCN": {
+    "title": "multi-scale relational graph convolutional network for multiple instance learning in histopathology images",
+    "keywords": [
+      "gnn",
+      "mil",
+      "histopathology"
+    ]
+  },
+  "Brussee2025GNNTrends": {
+    "title": "graph neural networks in histopathology: emerging trends and future directions",
+    "keywords": [
+      "gnn",
+      "survey",
+      "trends"
+    ]
+  },
+  "Li2024WiKG": {
+    "title": "dynamic graph representation with knowledge-aware attention for histopathology whole slide image analysis",
+    "keywords": [
+      "gnn",
+      "attention",
+      "wsi"
+    ]
+  },
+  "Behrouz2024GraphMamba": {
+    "title": "graph mamba: towards learning on graphs with state space models",
+    "keywords": [
+      "gnn",
+      "mamba",
+      "ssm"
+    ]
+  },
+  "Chen2024CaMIL": {
+    "title": "camil: causal multiple instance learning for whole slide image classification",
+    "keywords": [
+      "causal",
+      "mil",
+      "wsi"
+    ]
+  },
+  "Wang2024GraphMambaSSM": {
+    "title": "graph-mamba: towards long-range graph sequence modeling with selective state spaces",
+    "keywords": [
+      "gnn",
+      "mamba",
+      "ssm",
+      "long_range",
+      "causal"
+    ]
+  },
+  "Jiang2024DLBreast": {
+    "title": "deep learning applications in breast cancer histopathological imaging: diagnosis, treatment, and prognosis",
+    "keywords": [
+      "breast_cancer",
+      "wsi",
+      "deep_learning"
+    ]
+  },
+  "Wang2024CHIEF": {
+    "title": "a pathology foundation model for cancer diagnosis and prognosis prediction",
+    "keywords": [
+      "foundation_model",
+      "cancer_prognosis"
+    ]
+  },
+  "Hua2024PathoDuet": {
+    "title": "pathoduet: foundation models for pathological slide analysis of h&e and ihc stains",
+    "keywords": [
+      "foundation_model",
+      "wsi",
+      "contrastive_learning"
+    ]
+  },
+  "Waqas2024MILSurvey": {
+    "title": "exploring multiple instance learning (mil): a brief survey",
+    "keywords": [
+      "mil",
+      "survey",
+      "wsi"
+    ]
+  }
+}

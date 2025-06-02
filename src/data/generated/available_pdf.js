@@ -1,0 +1,1 @@
+define({availablePdf: ["Jiang2024DLBreast","Brussee2025GNNTrends","Bazargani2024MSRGCN","Behrouz2024GraphMamba","Waqas2024MILSurvey","Chen2024CaMIL","Wang2024GraphMambaSSM","Li2024WiKG","Wang2024CHIEF","Hua2024PathoDuet"]});

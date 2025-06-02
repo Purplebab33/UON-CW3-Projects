@@ -1,0 +1,121 @@
+﻿define({ entries : {
+    "Bazargani2024MSRGCN": {
+        "author": "Bazargani, R. and Fazli, L. and Gleave, M. and Goldenberg, L. and Bashashati, A. and Salcudean, S.",
+        "doi": "10.1016/j.media.2024.103197",
+        "journal": "Medical Image Analysis",
+        "keywords": "gnn, mil, histopathology",
+        "pages": "103197",
+        "series": "Medical Image Analysis",
+        "title": "Multi-scale relational graph convolutional network for multiple instance learning in histopathology images",
+        "type": "article journal",
+        "volume": "96",
+        "year": "2024"
+    },
+    "Behrouz2024GraphMamba": {
+        "author": "Behrouz, A. and Hashemi, F.",
+        "booktitle": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "doi": "10.1145/3637528.3672044",
+        "keywords": "gnn, mamba, ssm",
+        "pages": "119--130",
+        "series": "KDD",
+        "title": "Graph Mamba: Towards learning on graphs with state space models",
+        "type": "inproceedings conference",
+        "year": "2024"
+    },
+    "Brussee2025GNNTrends": {
+        "author": "Brussee, S. and Buzzanca, G. and Schrader, A. M. and Kers, J.",
+        "doi": "10.1016/j.media.2024.103444",
+        "journal": "Medical Image Analysis",
+        "keywords": "gnn, survey, trends",
+        "pages": "103444",
+        "series": "Medical Image Analysis",
+        "title": "Graph neural networks in histopathology: Emerging trends and future directions",
+        "type": "article journal",
+        "volume": "101",
+        "year": "2025"
+    },
+    "Chen2024CaMIL": {
+        "author": "Chen, K. and Sun, S. and Zhao, J.",
+        "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "doi": "10.1609/aaai.v38i2.27873",
+        "keywords": "causal, mil, wsi",
+        "number": "2",
+        "pages": "1120--1128",
+        "series": "AAAI",
+        "title": "CaMIL: Causal multiple instance learning for whole slide image classification",
+        "type": "inproceedings conference",
+        "volume": "38",
+        "year": "2024"
+    },
+    "Hua2024PathoDuet": {
+        "author": "Hua, S. and Yan, F. and Shen, T. and Ma, L. and Zhang, X.",
+        "doi": "10.1016/j.media.2024.103289",
+        "journal": "Medical Image Analysis",
+        "keywords": "foundation_model, wsi, contrastive_learning",
+        "pages": "103289",
+        "series": "Medical Image Analysis",
+        "title": "PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains",
+        "type": "article journal",
+        "volume": "97",
+        "year": "2024"
+    },
+    "Jiang2024DLBreast": {
+        "author": "Jiang, B. and Bao, L. and He, S. and Chen, X. and Jin, Z. and Ye, Y.",
+        "doi": "10.1186/s13058-024-01895-6",
+        "journal": "Breast Cancer Research",
+        "keywords": "breast_cancer, wsi, deep_learning",
+        "number": "1",
+        "pages": "137",
+        "series": "Breast Cancer Research",
+        "title": "Deep learning applications in breast cancer histopathological imaging: Diagnosis, treatment, and prognosis",
+        "type": "article journal",
+        "volume": "26",
+        "year": "2024"
+    },
+    "Li2024WiKG": {
+        "author": "Li, J. and Chen, Y. and Chu, H. and Sun, Q. and Guan, T. and Han, A. and He, Y.",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "doi": "10.1109/CVPR52733.2024.01076",
+        "keywords": "gnn, attention, wsi",
+        "pages": "11323--11332",
+        "series": "CVPR",
+        "title": "Dynamic graph representation with knowledge-aware attention for histopathology whole slide image analysis",
+        "type": "inproceedings conference",
+        "year": "2024"
+    },
+    "Wang2024CHIEF": {
+        "author": "Wang, X. and Zhao, J. and Marostica, E. and Yuan, W. and Jin, J. and Zhang, J. and Yu, K. H.",
+        "doi": "10.1038/s41586-024-07894-z",
+        "journal": "Nature",
+        "keywords": "foundation_model, cancer_prognosis",
+        "number": "8035",
+        "pages": "970--978",
+        "series": "Nature",
+        "title": "A pathology foundation model for cancer diagnosis and prognosis prediction",
+        "type": "article journal",
+        "volume": "634",
+        "year": "2024"
+    },
+    "Wang2024GraphMambaSSM": {
+        "author": "Wang, C. and Tsepa, O. and Ma, J. and Wang, B.",
+        "doi": "10.48550/arXiv.2402.00789",
+        "journal": "arXiv preprint arXiv:2402.00789",
+        "keywords": "gnn, mamba, ssm, long_range, causal",
+        "series": "arXiv",
+        "title": "Graph-Mamba: Towards long-range graph sequence modeling with selective state spaces",
+        "type": "article preprint",
+        "year": "2024"
+    },
+    "Waqas2024MILSurvey": {
+        "author": "Waqas, M. and Ahmed, S. U. and Tahir, M. A. and Wu, J. and Qureshi, R.",
+        "doi": "10.1016/j.eswa.2024.123893",
+        "journal": "Expert Systems with Applications",
+        "keywords": "mil, survey, wsi",
+        "pages": "123893",
+        "series": "Expert Systems with Applications",
+        "title": "Exploring multiple instance learning (MIL): A brief survey",
+        "type": "article journal",
+        "volume": "232",
+        "year": "2024"
+    }
+}});

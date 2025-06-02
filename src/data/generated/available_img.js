@@ -1,0 +1,1 @@
+define({ availableImg: ["Jiang2024DLBreast","Behrouz2024GraphMamba","Beck2016Visual","Bazargani2024MSRGCN","Brussee2025GNNTrends","Chen2024CaMIL","Waqas2024MILSurvey","Wang2024GraphMambaSSM","Li2024WiKG","Hua2024PathoDuet","Wang2024CHIEF"]});

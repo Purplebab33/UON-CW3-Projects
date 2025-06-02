@@ -1,0 +1,32 @@
+{
+  "Bazargani2024MSRGCN": {
+    "content": "multi-scale relational graph convolutional network for multiple instance learning in histopathology images gnn mil histopathology medical image analysis"
+  },
+  "Brussee2025GNNTrends": {
+    "content": "graph neural networks in histopathology: emerging trends and future directions gnn survey trends medical image analysis"
+  },
+  "Li2024WiKG": {
+    "content": "dynamic graph representation with knowledge-aware attention for histopathology whole slide image analysis gnn attention wsi cvpr"
+  },
+  "Behrouz2024GraphMamba": {
+    "content": "graph mamba: towards learning on graphs with state space models gnn mamba ssm kdd"
+  },
+  "Chen2024CaMIL": {
+    "content": "camil: causal multiple instance learning for whole slide image classification causal mil wsi aaai"
+  },
+  "Wang2024GraphMambaSSM": {
+    "content": "graph-mamba: towards long-range graph sequence modeling with selective state spaces gnn mamba ssm long_range causal arxiv"
+  },
+  "Jiang2024DLBreast": {
+    "content": "deep learning applications in breast cancer histopathological imaging: diagnosis, treatment, and prognosis breast_cancer wsi deep_learning breast cancer research"
+  },
+  "Wang2024CHIEF": {
+    "content": "a pathology foundation model for cancer diagnosis and prognosis prediction foundation_model cancer_prognosis nature"
+  },
+  "Hua2024PathoDuet": {
+    "content": "pathoduet: foundation models for pathological slide analysis of h&e and ihc stains foundation_model wsi contrastive_learning medical image analysis"
+  },
+  "Waqas2024MILSurvey": {
+    "content": "exploring multiple instance learning (mil): a brief survey mil survey wsi expert systems with applications"
+  }
+}
